@@ -25,10 +25,3 @@ Un inventario en el que se puede añadir, editar, eliminar y consultar los produ
 Sofia · Estudiante de Ingeniería de Sistemas
 Juan · Estudiante de Ingeniería de Sistemas
 Yina · Estudiante de Ingeniería de Sistemas
-ANTES                          DESPUÉS
-──────────────────────────────────────────────────────
-Sin bio                   →   Bio profesional con tecnologías
-README template VS Code   →   README real con descripción y cómo ejecutar
-Archivos de clase sueltos →   Solo código limpio
-Sin descripción en repos  →   Descripción + topics en cada uno
-Nombre informal           →   Perfil con apariencia profesional
