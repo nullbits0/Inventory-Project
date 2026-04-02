@@ -1,18 +1,34 @@
-## Getting Started
+# Inventory-Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Aplicación de consola desarrollada en Java que implementa 
+un inventario para una tienda.
 
-## Folder Structure
+## ¿Qué hace?
+Un inventario en el que se puede añadir, editar, eliminar y consultar los productos que pueda manejar una tienda mediana-pequeño, enfocada principalmente para comercios que no hagan uso de la tecnologia para llevar la contabulidad del negocio.
 
-The workspace contains two folders by default, where:
+## Tecnologías usadas
+- Java (JDK 21+)
+- Programación Orientada a Objetos
+- Estructuras de control y manejo de flujo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Cómo ejecutarlo
+1. Clona el repositorio: `git clone https://github.com/sofia-6969/Inventory-Project`
+2. Abre en VS Code con la extensión Java
+3. Ejecuta `Main.java`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Aprendizajes
+- Implementación de lógica de manejo de inventarios con Java
+- Manejo de entrada/salida por consola
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Autora
+Sofia · Estudiante de Ingeniería de Sistemas
+Juan · Estudiante de Ingeniería de Sistemas
+Yina · Estudiante de Ingeniería de Sistemas
+ANTES                          DESPUÉS
+──────────────────────────────────────────────────────
+Sin bio                   →   Bio profesional con tecnologías
+README template VS Code   →   README real con descripción y cómo ejecutar
+Archivos de clase sueltos →   Solo código limpio
+Sin descripción en repos  →   Descripción + topics en cada uno
+Nombre informal           →   Perfil con apariencia profesional
