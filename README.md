@@ -8,7 +8,7 @@ Un inventario en el que se puede añadir, editar, eliminar y consultar los produ
 
 ## Tecnologías usadas
 - Java (JDK 21+)
-- Programación Orientada a Objetos
+- Listas de datos
 - Estructuras de control y manejo de flujo
 
 ## Cómo ejecutarlo
